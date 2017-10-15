@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1507746509 source:c:\users\manmeet\desktop\war\main.cpp
+	<bits/stdc++.h>
+	"Evaluate.h"
+
+1507746999 c:\users\manmeet\desktop\war\evaluate.h
+	"Constants.h"
+
+1507746997 c:\users\manmeet\desktop\war\constants.h
+
