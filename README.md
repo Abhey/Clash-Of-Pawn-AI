@@ -25,3 +25,7 @@ To run arena first open the folder which contains the jar file and then run the 
 
 
     java - jar ClashOfPawns.jar (Currently arena runs only on Linux based operating systems).
+
+
+# Contribute
+Feel free to contribute to project.PR's are welcome.
